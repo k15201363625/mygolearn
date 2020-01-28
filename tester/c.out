@@ -1,0 +1,4 @@
+mode: set
+mygolearn/mook/tester/mytester.go:16.16,19.2 2 0
+mygolearn/mook/tester/mytester.go:20.31,24.2 3 1
+mygolearn/mook/tester/mytester.go:25.13,27.2 1 0
